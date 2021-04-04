@@ -12,3 +12,6 @@ Passionate about learning and helping people's lives through programming.
 
 ## 📌 Habilidades
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-bi&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/> 
+
+## 📚 Estudando
+<img src="https://img.shields.io/badge/Engenharia%20de%20Produ%C3%A7%C3%A3o-%20-yellowgreen"/> <img src="https://img.shields.io/badge/Machine%20Learning-%20-blue"/> <img src="https://img.shields.io/badge/Data%20Science-%20-brightgreen"/>
