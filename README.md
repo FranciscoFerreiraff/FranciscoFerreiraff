@@ -1,16 +1,13 @@
-### Hi there 👋
+# Diego Fernandes 
 
-<!--
-**FranciscoFerreiraff/FranciscoFerreiraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intern at @Cielo_br
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enthusiast and on the way to become a Data Scientist!
+
+Passionate about learning and helping people's lives through programming. 
+
+"Knowledge is power"
