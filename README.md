@@ -11,7 +11,7 @@ Passionate about learning and helping people's lives through programming.
 "Knowledge is power"
 
 ## 🌐 Skills
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-bi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=Power-apps&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-bi&logoColor=white"/>
 
 ## 📚 Learning
 <img src="https://img.shields.io/badge/Production%20Engineering-%20-96f"/> <img src="https://img.shields.io/badge/Machine%20Learning-%20-blue"/> <img src="https://img.shields.io/badge/Data%20Science-%20-brightgreen"/>
