@@ -3,7 +3,7 @@
 Data Analyst & Generative AI | Python, SQL, AWS
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:franciscogabriel_07@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/francisco-ferreira-4361b9177/](https://www.linkedin.com/in/francisco-gabriel-de-souza-ferreira-4361b9177/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-gabriel-de-souza-ferreira-4361b9177/)
 
 Building data-driven solutions and working on real-world AI systems.
 
