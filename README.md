@@ -10,7 +10,17 @@ Building data-driven solutions and working on real-world AI systems.
 "Data! Data! I cannot make bricks without clay"
 
 ## 🌐 Skills
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/SQL-31A8FF?style=for-the-badge&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><img src="https://img.shields.io/badge/ETL-%20-6A5ACD?style=for-the-badge"/><img src="https://img.shields.io/badge/LLMs-%20-000000?style=for-the-badge"/><img src="https://img.shields.io/badge/RAG-%20-4B0082?style=for-the-badge"/><img src="https://img.shields.io/badge/Prompt_Engineering-%20-8A2BE2?style=for-the-badge"/><img src="https://img.shields.io/badge/LangChain-%20-00A67E?style=for-the-badge"/><img src="https://img.shields.io/badge/LangGraph-%20-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SQL-31A8FF?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/ETL-%20-6A5ACD?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LLMs-%20-000000?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/RAG-%20-4B0082?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Prompt_Engineering-%20-8A2BE2?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-%20-00A67E?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-%20-FF6F61?style=for-the-badge"/>
 
 ## 📚 Learning
-<img src="https://img.shields.io/badge/Machine_Learning-%20-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/LLM_Evaluation-%20-6f42c1?style=for-the-badge"/><img src="https://img.shields.io/badge/AI_Agents-%20-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-%20-blue?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LLM_Evaluation-%20-6f42c1?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-%20-0A66C2?style=for-the-badge"/>
