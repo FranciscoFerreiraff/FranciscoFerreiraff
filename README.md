@@ -14,11 +14,9 @@ Building data-driven solutions and working on real-world AI systems.
 <img src="https://img.shields.io/badge/SQL-31A8FF?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/ETL-%20-6A5ACD?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/LLMs-%20-000000?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LLM-%20-000000?style=for-the-badge"/>&nbsp;
 <img src="https://img.shields.io/badge/RAG-%20-4B0082?style=for-the-badge"/>&nbsp;
 <img src="https://img.shields.io/badge/Prompt_Engineering-%20-8A2BE2?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/LangChain-%20-00A67E?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-%20-FF6F61?style=for-the-badge"/>
 
 ## 📚 Learning
 <img src="https://img.shields.io/badge/Machine_Learning-%20-blue?style=for-the-badge"/>&nbsp;
